@@ -14,3 +14,4 @@ Verified_reviews: creating vectors and using stop_words to clear these specific 
 Model<br>
 The model was built with 1 input layer, 1 hidden layer, and 1 output layer. The model chosen was Sequential with  relu activation in the input and hidden layers and sigmoid in the output layer. Next, the result is reset in the 0 or 1 because the goal column is a binary value<br>
 ![Map Numer Chicago](https://github.com/lucasfreire01/Amazon_Feedbacks/blob/main/Capturar.PNG)<br>
+![Map Numer Chicago](https://github.com/lucasfreire01/Amazon_Feedbacks/blob/main/Capturar1.PNG)<br>
